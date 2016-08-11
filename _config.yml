@@ -30,7 +30,7 @@ canonical: true
 menu:
   home: /
   # categories: /categories
-  # archives: /archives
+  archives: /archives
   tags: /tags
   books: /books
   about: /about
