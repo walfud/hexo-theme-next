@@ -32,6 +32,7 @@ menu:
   # categories: /categories
   archives: /archives
   tags: /tags
+  todo: /todo
   books: /books
   about: /about
   #commonweal: /404.html
@@ -51,6 +52,8 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  todo: spinner
+  books: book
 
 
 
